@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**malekaburaddaha/malekaburaddaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning Engineer Nanodegree from Udacity
 - 🌱 I’m currently learning Machine/Deep Learning, Data Science using (Python, SQL, R, and Java Script) 
@@ -13,6 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: am.aburaddaha@gmail.com
 - 😄 Pronouns: A resourceful guy
 - ⚡ Fun fact: I hated coding the most in the past. Now, Cannot live without it.
--->
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=malekaburaddaha)](https://github.com/anuraghazra/github-readme-stats)
 
