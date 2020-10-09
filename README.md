@@ -15,4 +15,4 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/jupyter%20notebook, Python/?username=malekaburaddaha&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/jupyter%20notebook/?username=malekaburaddaha&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
