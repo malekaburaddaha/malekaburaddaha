@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Machine Learning Engineer Nanodegree from Udacity
+- 🔭 I’m currently working on Starbucks project, check the (Starbucks-Project) repo. 
 - 🌱 I’m currently learning Machine/Deep Learning, Data Science using (Python, SQL, R, and Java Script) 
-- 👯 I’m looking to collaborate on projects related to the above mentioned fields, and I would prefer to work on Deeplearning projects more.
+- 👯 I’m looking to collaborate on projects related to the above mentioned fields.
 - 🤔 I’m looking for an oppurtunity as a Jr.Data scientist or a Jr.Machine Learning engineer
 - 💬 Ask me about anything I would love to help and learn
 - 📫 How to reach me: am.aburaddaha@gmail.com
