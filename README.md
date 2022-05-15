@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently A Ph.D. student at The University of Michigan-Dearborn. 
+- 🔭 I’m currently a Ph.D. student at The University of Michigan-Dearborn. 
 - 🌱 I’m currently learning Machine/Deep Learning, Data Science using (Python, SQL, R, and Java) 
 - 👯 I’m looking to collaborate on projects related to the above mentioned fields.
 - 🤔 I’m looking for an oppurtunity as a Jr.Data scientist or a Jr.Machine Learning engineer
