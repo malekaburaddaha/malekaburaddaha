@@ -2,8 +2,9 @@
 
 
 - 🔭 I’m currently a Ph.D. Candidate in Deeplearning and Computer Vision at The University of Michigan-Dearborn. 
-- 👯 I’m looking to collaborate on projects related to the above mentioned fields.
-- 📫 How to reach me: am.aburaddaha@gmail.com
+- 📫 How to reach me:
+  email: am.aburaddaha@gmail.com
+  LinkedIn: https://www.linkedin.com/in/abdalmalek-abu-raddaha/
 
 
 
