@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Malek — a Ph.D. candidate in Deep Learning and Computer Vision at the University of Michigan-Dearborn, specializing in autonomous driving perception, multimodal machine learning, and data-centric AI.
+I'm Malek — a Ph.D. in Deep Learning and Computer Vision at the University of Michigan-Dearborn, specializing in autonomous driving perception, multimodal machine learning, and data-centric AI.
 
 My work focuses on building scalable vision systems, hard-example mining pipelines, and efficient model training and inference workflows for safety-critical applications.
 
@@ -9,4 +9,14 @@ My work focuses on building scalable vision systems, hard-example mining pipelin
 - LinkedIn: [Abdalmalek Abu Raddaha](https://www.linkedin.com/in/abdalmalek-abu-raddaha/)
 - GitHub: [malekaburaddaha](https://github.com/malekaburaddaha)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=malekaburaddaha&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malekaburaddaha&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/malekaburaddaha)
