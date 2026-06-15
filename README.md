@@ -2,7 +2,7 @@
 
 I'm Malek — a Ph.D. in Deep Learning and Computer Vision at the University of Michigan-Dearborn, specializing in autonomous driving perception, multimodal machine learning, and data-centric AI.
 
-My work focuses on building scalable vision systems, hard-example mining pipelines, and efficient model training and inference workflows for safety-critical applications.
+I specialize in scalable computer vision and multimodal ML systems, with a focus on hard-example mining, perception model optimization, and efficient inference for safety-critical autonomous driving applications.
 
 📫 Reach me at:
 - Email: [am.aburaddaha@gmail.com](mailto:am.aburaddaha@gmail.com)
